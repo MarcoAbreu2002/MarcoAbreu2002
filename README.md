@@ -1,4 +1,4 @@
-# Hi, I'm Marco Abreu 👋
+# Hi, I'm Marco👋
 
 ## Application Security Engineer | DevSecOps | Offensive Security
 
