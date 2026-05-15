@@ -57,7 +57,7 @@ Research framework using LLMs to generate polymorphic malware mutations and eval
 ### 🛡️ ICS Protocol Security Toolkit
 Toolkit focused on cybersecurity in critical infrastructures and industrial communication protocols.
 
-**Tech:** Python, Networking, Security
+**Tech:** Python, Networking, Security, Modbus, Dnp3
 
 ---
 
@@ -68,17 +68,10 @@ PowerShell-based DFIR tool for collecting volatile and non-volatile forensic art
 
 ---
 
-### 🔐 Biometric Authentication System
-Multi-factor biometric authentication using facial recognition and keystroke dynamics.
+### 🌐 Subtrace
+Subtrace is a reconnaissance and attack surface mapping tool developed in Python.
 
-**Tech:** Python, Machine Learning, Biometrics
-
----
-
-### 🌐 Terraform Security Pipeline
-Infrastructure-as-Code security pipeline using Terraform and Checkov.
-
-**Tech:** Terraform, Checkov, DevSecOps
+**Tech:** Python, AsyncIO, httpx, NetworkX
 
 ---
 
